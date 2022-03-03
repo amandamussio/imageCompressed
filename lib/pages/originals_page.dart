@@ -7,7 +7,9 @@ class OriginalsPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: AppBar(
+        title: Text('Originals'),
+      ),
       body: ListView(
         children: [
           Image.asset(imagesOriginalsPath('ferias1.jpeg')),

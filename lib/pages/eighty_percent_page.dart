@@ -7,7 +7,9 @@ class EightyPercentPage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(),
+      appBar: AppBar(
+        title: Text('80%'),
+      ),
       body: ListView(
         children: [
           Image.asset(imagesEightyPath('ferias1.webp')),

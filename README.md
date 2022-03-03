@@ -1,16 +1,11 @@
-# images_compressed
+# Images Feed Compressed
 
-A new Flutter project.
+Este projeto faz parte do estudo para o artigo - Considere usar imagens WebP em seus aplicativos Mobile. E tem como intuito mostrar os benefícios de peso e experiência usando conversão com perdas para imagens.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Para rodar este projeto abra um simulador ou conecte um device de sua preferência e execute
 
-A few resources to get you started if this is your first Flutter project:
+``flutter run
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
